@@ -27,7 +27,9 @@
     },
     "dependencies": {
         "jsonpointer": "^5.0.0",
-        "minimist": "^1.2.6"
+        "lodash": "^4.17.21",
+        "minimist": "^1.2.6",
+        "sync-request": "^6.1.0"
     },
     "devDependencies": {
         "eslint": "^7.10.0",

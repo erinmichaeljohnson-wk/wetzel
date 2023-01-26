@@ -43,5 +43,8 @@
         "test": "mocha",
         "test-bail": "mocha -b",
         "generate-third-party": "gulp generate-third-party"
+    },
+    "engines": {
+        "node": "16"
     }
 }
